@@ -1,0 +1,12 @@
+#include<bits/stdc++.h>
+
+using namespace std;
+int main(){
+	int a =7	;
+  	int b=9;
+  	int c=9;
+  	int tong = 0 ;
+  	tong = a+b+c;
+  	cout<< tong ;
+  	return 0;
+ }
