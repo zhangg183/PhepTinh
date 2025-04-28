@@ -1,0 +1,9 @@
+#include<bits/stdc++.h>
+
+using namespace std;
+int hieu(int a , int b , int c){
+  	int tongso = 0 ;
+  	tongso = a-b-c;
+  	cout<< tongso ;
+  	return 0;
+ }
