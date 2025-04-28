@@ -8,5 +8,8 @@ int main(){
   cout<<tich<<endl; 
     int hieu=a-b-c;
   cout<<hieu<<endl; 
+  int tong = 0 ;
+  	tong = a+b+c;
+  	cout<< tong ;
   return 0; 
 } 
