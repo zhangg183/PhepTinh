@@ -6,5 +6,7 @@ int main(){
   int c=9;
    int tich=a*b*c;
   cout<<tich<<endl; 
+    int hieu=a-b-c;
+  cout<<hieu<<endl; 
   return 0; 
 } 
