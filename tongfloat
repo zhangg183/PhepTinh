@@ -1,0 +1,9 @@
+#include<bits/stdc++.h>
+
+using namespace std;
+int tong(float a , float b , float c){
+  	float tongso = 0 ;
+  	nhana = a*b*c;
+  	cout<< nhan ;
+  	return 0;
+ }
