@@ -1,0 +1,9 @@
+#include<bits/stdc++.h>
+
+using namespace std;
+int nhan(int a , int b , int c){
+  	int nhana = 0 ;
+  	nhana = a*b*c;
+  	cout<< nhana ;
+  	return 0;
+ }
